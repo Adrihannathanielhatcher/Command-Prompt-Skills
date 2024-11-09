@@ -1,7 +1,6 @@
 # Command-Prompt-Skills
 A Journey Through Command Prompt
 <p align="center">
-<![image](https://github.com/user-attachments/assets/fdc93fb7-bdbb-4f1e-beca-c1ccdf1b07bb)/>
 </p>
 
 <h1>Command Prompts Skills & Practice</h1>
@@ -33,7 +32,8 @@ This tutorial outlines different skills that can be acquired through the Command
 <h2>Entering & executing in the Command Prompt steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YajcT5S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 If this is your first time trying the skills out then your in luck throughout this tutorial we will go step by step to create a better understanding for the command line.
