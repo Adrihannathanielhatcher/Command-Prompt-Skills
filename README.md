@@ -1,4 +1,4 @@
-# Command-Prompt-Skills
+# Linux Coding Skills
 A Journey Through Command Prompt
 <p align="center">
 </p>
