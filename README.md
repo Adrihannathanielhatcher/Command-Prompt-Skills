@@ -22,12 +22,7 @@ You can find a hands-on tutorial for over 60 Linux commands in the link below.
 ![image](https://github.com/user-attachments/assets/246b3643-59dd-4c06-9cea-8d5384d55cd5)
 
 
-   
-   
-   
-   The ls command in Linux lists the names and features of files and directories in a specified directory
-
-
+The ls command lists the names and features of files and directories in a specified directory
 
   - <h2> Command pwd (Print Working Directory)</h2>
 
@@ -50,21 +45,20 @@ The pwd command displays the current working directory in the Linux command-line
    
 
 
-<h2> Command touch </h2>
+<h2> Command touch  </h2>
 
 ![image](https://github.com/user-attachments/assets/8ab96fb4-cdd6-403f-b0bf-00ed0a08d37c)
 
-is used to create a file without any content. The file created using the touch command is empty. This command can be used when the user doesn't have data to store at the time of file creation.
+The touch command is used to create a file without any content. The file created using the touch command is empty. 
+This command can be used when the user doesn't have data to store during file creation.
+
+<h2>  Command echo  </h2>
+
+![image](https://github.com/user-attachments/assets/83a87731-409b-4e89-a406-d8cf505d3402)
 
 
-<p>
-<img src="https://i.imgur.com/YajcT5S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The echo command in Linux is a built-in command that displays text or strings passed as arguments on the command line. 
 
-</p>
-<p>
-If this is your first time trying the skills out then your in luck throughout this tutorial we will go step by step to create a better understanding for the command line.
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
